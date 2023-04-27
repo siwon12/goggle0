@@ -1,0 +1,23 @@
+# Changes here will be overwritten by Copier; do NOT edit manually
+_commit: v0.2.23
+_src_path: gh:entelecheia/hyperfast-python-template
+author: oh si won
+build_and_release: true
+code_template_answers_file: .copier-hyfi-config.yaml
+code_template_source: null
+copyright_year: 2023
+documentaion_tool: jupyter-book
+documentation_url: https://siwon12.github.io/goggle0
+email: 202021022@chu.ac.kr
+friendly_name: goggle0
+github_repo_name: goggle0
+github_username: siwon12
+package_name: goggle0
+project_description: goggle0 pypi project
+project_license: MIT
+project_name: goggle0
+project_short_description: goggle0 project
+upload_to_release: true
+upload_to_repository: true
+use_source_code_skeleton: true
+
