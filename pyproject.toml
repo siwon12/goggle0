@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "goggle0"
-version = "0.0.0"
+version = "0.1.0"
 description = "goggle0 project"
 authors = ["oh si won <202021022@chu.ac.kr>"]
 license = "MIT"
